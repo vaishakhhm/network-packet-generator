@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/darkangel/Projects/C++/network-packet-generator/build",
+  "command": "/usr/bin/g++-8    -g   -o CMakeFiles/network-packet-generator.dir/main.cpp.o -c /home/darkangel/Projects/C++/network-packet-generator/main.cpp",
+  "file": "/home/darkangel/Projects/C++/network-packet-generator/main.cpp"
+}
+]

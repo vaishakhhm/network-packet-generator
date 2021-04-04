@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g  -rdynamic CMakeFiles/network-packet-generator.dir/main.cpp.o  -o ../bin/network-packet-generator 
